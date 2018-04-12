@@ -14,7 +14,7 @@ BlogPosts.create(
     'Walden', 'I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.” “Rather than love, than money, than fame, give me truth.', 'Henry David Thoreau'
 );
 BlogPosts.create(
-    'Crime and Punishment', 'To go wrong in one\'s own way is better than to go right in someone else\'s.', 'Fyodor Dostoyevsky'
+    'Crime and Punishment', 'To go wrong in one\'s own way is better than to go right in someone else\'s.', 'Fyodor Da Man Dostoyevsky'
 );
 
 
