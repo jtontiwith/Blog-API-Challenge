@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: 1Qm71pxp7ASOkjfQ5SykSAS4gRvXclY+iYaXbpiQCSe7vnxo1/8g1zIyp6/aATLunZrUDXU5t8kmm3F7BvCbx1VvyQ5640iRIQyJSgt7+I+UjoM0wWtXx2GMgSKLLMKcMZKKNsTEtQnXONmsxOND0RHlaJjND5Z4NXuRlY1HI4zD8x3UHnL+iyGqDXlc4OGmzfsTThtUFLuYChO+v2Fa49Z3OmYee0Oa5SU5kANfmnqCrhGvuYsYuXJc/Mxg+ukCLFLx5vuwDEe3KAkioXxj8kZPPF33V6VLgUtmudJ8f4KlUiv+Z8BcAVomkh9dswa4kFazlk/iWFHW4cgxCsvuaMTebBiOYP+x4cp9jYxB5pb6sT2acqJX+RFtdkIZFa8ifEq1H/1dfAGYVLPfO8QnqjXB4GmwVSAPDXPDbxIguxm6WacWqFOFt7l28IL70b6HZ87cSEL2+YFf/czk3vTDkDTxN/9PjjJ6uidTE9LXAlPynMCrdoETD4gI9b5lJf6LjqQVbeBYFY6G6+MJliOyb7s1GoR7qz9Lk5a041Z0HABHVN49l9ZtJpIBewKZAd2bJNRqUD8q0mowGkLjczdJcnHcDSEYn9V3ThmqI1whtXr7ZMPn5QEK+HnvU5b0nRZJcHpGdr5cOY4a2pv3XlHJYpeoZbNuqinZUH+BeXt2ePA=
-  app: https://git.heroku.com/desolate-savannah-75041.git
+  app: desolate-savannah-75041
   on:
     repo: jtontiwith/Blog-API-Challenge
